@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Fanbox图片下载器
+// @name   Takezamursi      Fanbox图片下载器
 // @name:en      Fanbox Downloader
 // @namespace    http://tampermonkey.net/
 // @namespace    https://github.com/709924470/pixiv_fanbox_downloader
